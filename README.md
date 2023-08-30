@@ -1,2 +1,3 @@
 # Python for Data Science
- Projects with Python for data science
+ Project with Python for data science.
+This is my first Python project made to study data science.
